@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Amalgadon
 - 👀 I’m interested in writing code
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on [![BouRHooD](https://avatars.githubusercontent.com/u/51342266?v=4)]((https://github.com/BouRHooD))
+- 💞️ I’m looking to collaborate on [![BouRHooD](https://avatars.githubusercontent.com/u/51342266?v=4)](https://github.com/BouRHooD)
+
 
 ### Languages and Tools
 
